@@ -34,7 +34,7 @@
 git clone https://github.com/infrade/altica.git
 ```
 
-- Whitepaper: [docs/WhitePaper](./docs/Whitepaper.md)
+- Whitepaper: [docs/WhitePaper](./docs/WhitePaper.md)
 
 ## 🤝 Contributing
 
